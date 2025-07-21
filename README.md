@@ -1,2 +1,11 @@
-# iris-ml-model-comparison
-Classification of Iris flowers using multiple ML algorithms with evaluation and comparison.
+# Iris ML Model Comparison
+
+This repository contains implementations and comparisons of various machine learning models applied to the classic Iris dataset. The goal is to explore and evaluate different classifiers on this multiclass classification problem.
+
+## Models Included
+
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
