@@ -9,3 +9,7 @@ This repository contains implementations and comparisons of various machine lear
 - Random Forest
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
+
+##
+
+Kaggle Link : https://h1.nu/18fyY
